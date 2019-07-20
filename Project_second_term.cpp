@@ -1,3 +1,8 @@
+/*
+*Developed By ::Mustafa Khaled
+*OOP program read and deal withs files;
+*Date:: 2017/03/07
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
